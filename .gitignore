@@ -1,0 +1,6 @@
+__pycache__
+
+exp/
+data/
+
+WavLM-Base+.pt
