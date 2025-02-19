@@ -81,11 +81,13 @@ If you use this project, please consider starring this repository on GitHub and 
 
 ```BibTeX
 @InProceedings{miara2024WavLMSSLSV,
-  author    = {Miara, Victor and Lepage, Théo and Dehak, Réda},
-  booktitle = {INTERSPEECH},
   title     = {Towards Supervised Performance on Speaker Verification with Self-Supervised Learning by Leveraging Large-Scale ASR Models},
+  author    = {Miara, Victor and Lepage, Theo and Dehak, Reda},
   year      = {2024},
-  url       = {https://arxiv.org/abs/2406.02285},
+  booktitle = {Interspeech 2024},
+  pages     = {2660--2664},
+  doi       = {10.21437/Interspeech.2024-486},
+  url       = {https://www.isca-archive.org/interspeech_2024/miara24_interspeech.html},
 }
 ```
 
